@@ -18,8 +18,11 @@ marian@ubuntu:~/eclipse-workspace/Matrix_calc/$./build.sh
 How to execute:
 
 marian@ubuntu:~/eclipse-workspace/Matrix_calc/$./matrix_calc
+
+Input:
 A=[[1,2],[4,5]]; B=[[2,3],[4,5]] ; C=A*B; det(C);D=[[4,7,5,2,1],[3,2,1,4,3],[2,1,3,2,5],[1,2,3,4,5],[3,2,1,5,-2]];det(D);
 
+Output:
 [[6]]
 [[832]]
 
