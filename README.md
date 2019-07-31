@@ -1,5 +1,5 @@
 # matrix_calc
-expression calculator for matrices (multiplication , addition, determinant) with matrix variables
+Recursive descent matrix expression parser and calculator for matrices able to calculate matrix multiplication , addition, substraction , determinant with possibility to use round brackets (parantheses) and to assign and use matrix variables.
 
 Kegasoft Limited is the copy right holder of this project , all of the source code.
 
